@@ -1,0 +1,60 @@
+.main{
+    width: 100%;
+    height: 1000px;
+}
+.left{
+    float: left;
+    width: 30%;
+    height: 100%;
+    position: fixed;
+}
+.right-details{
+    background-color: white;
+    width: 65%;
+    height: 100%;
+    float: right;
+}
+.left-blank{
+    background-color: white;
+    float: left;
+    width: 10%;
+    height: 100%;
+}
+.image{
+    border: solid 1px black;
+    height: 220px;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.name{
+    text-align: center;
+    font-size: 25px;
+}
+
+.des{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.left-content a{
+    margin-left: 25%;
+    font-size: 20px;
+}
+.left-content{
+    background-color: rgb(209, 209, 209);
+    float:right;
+    width: 90%;
+    height: 100%;
+}
+.project{
+    width: 100%;
+    height: 500px;
+    font-size: 20px;
+}
+.project-name{
+    font-weight: bold;
+}
